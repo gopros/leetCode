@@ -8,7 +8,7 @@ class Solution {
         int t = n/26;
         int p = n%26;
 
-        char[] s = {'A','B','C','D','E','F'};
+        char[] s = {'A','B','C','D','E','F','G','H'};
 
         return "";
     }
